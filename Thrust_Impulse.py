@@ -40,7 +40,7 @@ average_thrust = total_impulse / burn_time
 
 print("A. Average Thrust")
 print(f"Average thrust = {average_thrust:.2f} N")
-print()
+print("Mia is maessing with stuff")
 
 
 # ============================================================
